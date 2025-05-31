@@ -29,7 +29,7 @@ Vocawork is a voice-powered job search platform that allows users to find jobs u
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/vocawork.git
+git clone https://github.com/zaheer037/vocaWork.git
 cd vocawork
 ```
 
